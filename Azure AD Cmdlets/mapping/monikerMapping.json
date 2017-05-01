@@ -1,0 +1,26 @@
+{
+    "azureadps-2.0": {
+        "azure-docs-powershell-azuread/Azure AD Cmdlets": {
+            "AzureAD": {
+                "_displayName": "AzureAD",
+                "_version": "2"
+            }
+        }
+    },
+    "azureadps-2.0-preview": {
+        "azure-docs-powershell-azuread/Azure AD Cmdlets": {
+            "AzureAD": {
+                "_displayName": "AzureADpreview",
+                "_version": "2preview"
+            }
+        }
+    },    
+    "azureadps-1.0": {
+        "azure-docs-powershell-azuread/Azure AD Cmdlets": {
+            "MSOnline": {
+                "_displayName": "MSOnline",
+                "_version": "1"
+            }
+        }
+    }
+}
